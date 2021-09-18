@@ -7,11 +7,10 @@ I am a 2nd year student at IIM in La Defense in the web development axis. My mai
 Do not hesitate to contact me here [mail](mailto:louis.nourry@edu.devinci.fr) if you want to send me a message.
 
 <p align='center'>
-  <a href="https://twitter.com/louinourry"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/efa1c9b6fc3b9a1ac90154f44728883ca03920f3/fb.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/louinourry"><img height="24" src="https://https://https://github.com/lnourry75/lnourry75/blob/f0a9172e79cc18ac132263a02c2902510cfc0a9f/gmail.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/louis.nourry.1/"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/efa1c9b6fc3b9a1ac90154f44728883ca03920f3/fb.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/louinourry"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/f0a9172e79cc18ac132263a02c2902510cfc0a9f/twiiter-.jpg?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/louinourry"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/f0a9172e79cc18ac132263a02c2902510cfc0a9f/unnamed.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/louinourry"><img height="24" src="https://https://https://github.com/lnourry75/lnourry75/blob/d91623cb53173a47f8328f38659fd263deeee1e5/Instagram_logo_2016.svg.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/l_nourry_75/"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/f0a9172e79cc18ac132263a02c2902510cfc0a9f/unnamed.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/in/louis-nourry/"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/d91623cb53173a47f8328f38659fd263deeee1e5/Instagram_logo_2016.svg.png?raw=true"></a>&nbsp;&nbsp;
 <!--
 
 **lnourry75/lnourry75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
