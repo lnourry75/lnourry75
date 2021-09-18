@@ -11,6 +11,16 @@ Do not hesitate to contact me here [mail](mailto:louis.nourry@edu.devinci.fr) if
   <a href="https://twitter.com/louinourry"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/f0a9172e79cc18ac132263a02c2902510cfc0a9f/twiiter-.jpg?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/l_nourry_75/"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/f0a9172e79cc18ac132263a02c2902510cfc0a9f/unnamed.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/in/louis-nourry/"><img height="24" src="https://github.com/lnourry75/lnourry75/blob/d91623cb53173a47f8328f38659fd263deeee1e5/Instagram_logo_2016.svg.png?raw=true"></a>&nbsp;&nbsp;
+  </p>
+  
+  <details>
+  <summary><strong>My skills :</strong></summary>
+  - PHP <br/>
+  - HTML <br/>
+  - CSS <br/>
+  - JS <br/>
+  </details>
+
 <!--
 
 **lnourry75/lnourry75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
