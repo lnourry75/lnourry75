@@ -7,7 +7,7 @@ I am a 2nd year student at IIM in La Defense in the web development axis. My mai
 Do not hesitate to contact me here [mail](mailto:louis.nourry@edu.devinci.fr) if you want to send me a message.
 
 <p align='center'>
-  <a href >
+  <a href="https://twitter.com/louinourry"><img hieght="24" src=">
 <!--
 **lnourry75/lnourry75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
