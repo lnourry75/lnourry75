@@ -1,5 +1,13 @@
+# ![lnourry](https://github.com/lnourry75/lnourry75/blob/89ed886f73c11fab79b819f626ce9a190f501ece/webdev.JPG)
+
 ### Hi there 👋
 
+I am a 2nd year student at IIM in La Defense in the web development axis. My main passions are to learn and to be able to share my knowledge with others.
+
+Do not hesitate to contact me here [mail](mailto:louis.nourry@edu.devinci.fr) if you want to send me a message.
+
+<p align='center'>
+  <a href >
 <!--
 **lnourry75/lnourry75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
