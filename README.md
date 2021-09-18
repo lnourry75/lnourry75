@@ -20,7 +20,12 @@ Do not hesitate to contact me here [mail](mailto:louis.nourry@edu.devinci.fr) if
   - CSS <br/>
   - JS <br/>
   </details>
-
+  
+  ![Stats de lnourry75 sur github](https://github-readme-stats.vercel.app/api?username=lnourry75&show_icons=true&hide=["prs","issues","contribs"])
+  
+  <p>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=lnourry75.visitor-badge"/>
+  </p>
 <!--
 
 **lnourry75/lnourry75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
